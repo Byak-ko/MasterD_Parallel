@@ -1,0 +1,14 @@
+/home/maxim/university/parallel/lab1/CSharpSum/bin/Debug/net8.0/CSharpSum
+/home/maxim/university/parallel/lab1/CSharpSum/bin/Debug/net8.0/CSharpSum.deps.json
+/home/maxim/university/parallel/lab1/CSharpSum/bin/Debug/net8.0/CSharpSum.runtimeconfig.json
+/home/maxim/university/parallel/lab1/CSharpSum/bin/Debug/net8.0/CSharpSum.dll
+/home/maxim/university/parallel/lab1/CSharpSum/bin/Debug/net8.0/CSharpSum.pdb
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.AssemblyInfoInputs.cache
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.AssemblyInfo.cs
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.csproj.CoreCompileInputs.cache
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.dll
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/refint/CSharpSum.dll
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.pdb
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/CSharpSum.genruntimeconfig.cache
+/home/maxim/university/parallel/lab1/CSharpSum/obj/Debug/net8.0/ref/CSharpSum.dll
